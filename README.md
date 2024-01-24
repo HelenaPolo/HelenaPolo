@@ -8,7 +8,26 @@ He estudiado desarrollo web, programación de videojuegos, cine y muchas cosas m
 Este repo es un breve resumen de algunos proyectos que he realizado. ☺️
 <br><br><br><br>
 
+Shooting Game
 
+![Captura8](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/2e46febc-e112-4805-9c69-5c840d828e7c)
+
+![Captura12](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/7c3ea028-fbcd-4dce-a206-1b00e777109d)
+
+
+Platform Game
+
+![Captura9](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/411aa306-4741-4ad8-82b6-99fa5abf85c7)
+
+![Captura de pantalla (16) - copia](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/af190111-4403-4252-8811-8166af294f1b)
+
+Fairy tale game
+
+![Captura4](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/29765e3b-6b40-4262-807f-321f5e72fc45)
+
+Car Racing Game
+
+![Captura de pantalla (5)-copia](https://github.com/HelenaPolo/HelenaPolo/assets/113515859/08599a80-1af7-40ed-8608-0cf9ee3a17e6)
 
 Rocket Game
 
